@@ -29,7 +29,6 @@ After compile must create 2 folders in main folder and changes name to "بورس
 .
 .
 .
-
-
+.
 
 note that We will not be responsible for the data
