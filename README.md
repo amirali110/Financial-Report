@@ -26,7 +26,9 @@ After compile must create 2 folders in main folder and changes name to "بورس
 ![drsyderuy](https://user-images.githubusercontent.com/37404187/121040382-19c9b180-c7c7-11eb-8866-3a8d18b2dd1a.PNG)
 
 *All of your trades will be save in Financial Report program
-
+.
+.
+.
 
 
 
