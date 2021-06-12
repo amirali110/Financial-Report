@@ -9,7 +9,7 @@ Financial_Report:
 * Paper trade
 * In new version you can import automatically your trading data from Binance to Financial_Report program
 
-can use for Iranian capital market , Crypto market & for Forex in next version
+can use for Iranian capital market , Crypto Currency market & for Forex in next version
 
 After compile must create 2 folders in main folder and changes name to "بورس ایران" & "کریپتو کارنسی"
 
