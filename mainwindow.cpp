@@ -62,7 +62,7 @@ MainWindow::MainWindow(QWidget *parent)
     connect(ui->comboBox,&QComboBox::currentTextChanged,[=](){ui->type->clear();});
 
 
-    connect(ui->exit,SIGNAL(clicked()),SLOT(close()));
+    connect(ui->exit,&QPushButton::clicked,&QMainWindow::close);
 
 
 }
